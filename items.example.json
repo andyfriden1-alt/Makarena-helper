@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "name": "crusader helmet",
+      "aliases": [
+        "crus helm"
+      ],
+      "sellPrice": 6000,
+      "sellTo": {
+        "name": "Nah'Bob",
+        "location": "Blue Djinn"
+      }
+    },
+    {
+      "name": "wand of cosmic energy",
+      "aliases": [
+        "cosmic wand"
+      ],
+      "sellPrice": 2000,
+      "sellTo": {
+        "name": "Haroun",
+        "location": "Blue Djinn"
+      }
+    }
+  ]
+}

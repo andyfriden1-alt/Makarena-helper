@@ -1,0 +1,25 @@
+{
+  "name": "tibia-loot-bot",
+  "version": "1.0.0",
+  "description": "Standalone Discord bot for Tibia loot sell-price lookups using Valantis data.",
+  "main": "live-bot.js",
+  "scripts": {
+    "start": "node live-bot.js",
+    "start:local": "node bot.js",
+    "register": "node register.js"
+  },
+  "keywords": [
+    "discord",
+    "tibia",
+    "valantis"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.2"
+  }
+}
